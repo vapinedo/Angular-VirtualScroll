@@ -1,4 +1,4 @@
 # Virtual Scroll
 
-. Virtual Scroll was realesed on October 2018
+- Virtual Scroll was released on October 2018
 
